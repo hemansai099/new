@@ -5,7 +5,7 @@
 ##### heading5
 ###### heading6
 
-*Vamsi satyanarayana*
+*Vamsi saithaan*
 **VRSEC**
 
 ![This is an image](https://www.askideas.com/wp-content/uploads/2016/11/Baby-Eating-Lemon-Funny-Gif.gif)
